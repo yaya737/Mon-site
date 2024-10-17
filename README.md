@@ -1,14 +1,4 @@
 <!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>CodePen - Mon site</title>
-  <link rel="stylesheet" href="./style.css">
-
-</head>
-<body>
-<!-- partial:index.partial.html -->
-<!DOCTYPE html>
 <html lang="fr">
 
 <head>
@@ -42,7 +32,7 @@
 
     /* Animation pour Yaya Konta */
     h1 {
-      color: vert;
+      color: green;
       animation: move 3s infinite alternate;
     }
 
@@ -157,8 +147,6 @@
       <p class="link"><a href="http://coran-islam.com/" target="_blank">CORAN MP3</a></p>
       <p class="link"><a href="http://saint-coran.net/telecharge" target="_blank">SANT CORAN </a></p>
       <p class="link"><a href="http://flashresultats.fr/" target="blank">RESULTAT DU FOOF EN DIRECT</a></p>
-<!-- partial -->
-  <script  src="./script.js"></script>
-
-</body>
-</html>
+      <footer>
+        <p>Yaya Konta &copy; 2024. Tous droits réservés. <a href="/droits-d-auteur.html"></a></p>
+      </footer>
